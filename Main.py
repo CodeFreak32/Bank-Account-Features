@@ -1,5 +1,5 @@
-bal = [1000,4000,7000]
-username = ['abc','def','ghi']
+bal = [1000,4000,7000]            //The initial balance present in each account
+username = ['abc','def','ghi']    
 password = [111,222,333]
 
 while True:
@@ -39,3 +39,6 @@ while True:
             break
         else:
             print('No correct choice TRY AGAIN')
+
+            
+            //  The program is self explanatory if you have a basic idea of control statements and loops.
